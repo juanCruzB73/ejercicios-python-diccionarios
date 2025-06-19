@@ -1,0 +1,1 @@
+#19 convierte los valores de un array de tupas en un diccionario

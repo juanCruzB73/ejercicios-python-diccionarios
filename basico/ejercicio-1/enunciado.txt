@@ -1,0 +1,1 @@
+#1.Crear un diccionario simple para guardar los valores de una persona e imprimelos en pantalla

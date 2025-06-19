@@ -1,0 +1,2 @@
+#14. Agrupar por longitud
+#dado un array crea un diccionario de strings donde se agrupen sus valores de manera que "len:3:[luz,sol]"

@@ -1,0 +1,8 @@
+20.Crea una función que reciba un texto completo (una frase o párrafo), y devuelva un diccionario con el conteo de cada palabra, aplicando las siguientes reglas:
+
+Todas las palabras deben tratarse en minúscula.
+Debe eliminar signos de puntuación comunes: .,;:!?¿¡()-".
+El conteo debe ser preciso, sin que "Hola" y "hola" cuenten como dos palabras diferentes.
+
+ejemplo entrada: "¡Hola, mundo! Hola... ¿cómo estás, mundo?"
+salida esperada: {'hola': 2, 'mundo': 2, 'como': 1, 'estas': 1}

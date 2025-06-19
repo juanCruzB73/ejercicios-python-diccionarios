@@ -1,0 +1,2 @@
+#17. Ranking
+#recorriendo los valores de un diccionario({ana:80,juan:20}) muestra por consola el mayor

@@ -1,0 +1,5 @@
+#18. Anagramas agrupados
+#Dos palabras son anagramas si contienen exactamente las mismas letras, pero en otro orden.
+#agrupar las palabras de un array por su forma ordenada (que será igual para anagramas), para obtener un diccionario
+el resultado con el array ["roma", "amor", "omar", "ramo"] 
+deberia ser como: {'amor': ['roma', 'amor', 'omar', 'ramo']}

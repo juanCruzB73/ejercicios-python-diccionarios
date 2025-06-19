@@ -1,0 +1,3 @@
+#13. Diccionario con listas
+#crea 3 diccionarios con clave de alguna materia(matematica,geometria,etc) y con valores de un array de numeros
+luego imprime el promedio de cada materia de la siguiente manera "materia:promedio"

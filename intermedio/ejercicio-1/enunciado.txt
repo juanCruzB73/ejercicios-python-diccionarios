@@ -1,0 +1,1 @@
+#6.Recorrer un diccionario e imprimir los valores como "clave:valor"

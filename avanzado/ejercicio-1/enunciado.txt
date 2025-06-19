@@ -1,0 +1,2 @@
+#11. contar la frecuencia con la que un caracter especifico aparece en un string
+#pista: intenta guardar los carateres como llave y aumenta su valor a medida que aparecen recorriendo el string

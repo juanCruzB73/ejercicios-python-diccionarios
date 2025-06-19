@@ -1,0 +1,1 @@
+accede a los valores particulares de tu diccionario persona e impremelos en pantalla
