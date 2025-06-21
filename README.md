@@ -84,7 +84,7 @@ Elimina puntuación, convierte a minúsculas y cuenta la frecuencia de cada pala
 
 ## 🛠 Cómo usar
 
-Podés ejecutar los ejercicios desde un solo archivo `.py` o dividirlos. Por ejemplo:
+Podés clonar el repositorio usando:
 
 ```bash
-python ejercicio_01.py
+git clone https://github.com/juanCruzB73/ejercicios-python-diccionarios
