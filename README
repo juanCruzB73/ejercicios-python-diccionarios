@@ -1,0 +1,26 @@
+🐍 Ejercicios de Práctica con Diccionarios en Python
+
+Este repositorio contiene 20 ejercicios prácticos para aprender y dominar el uso de diccionarios en Python. Están organizados en tres niveles: básico, intermedio y avanzado. Se cubren operaciones comunes como creación, acceso, modificación, conteo, agrupación, inversión, y casos de uso reales.
+
+| Nivel      | Ejercicio | Descripción                                               |
+| ---------- | --------- | --------------------------------------------------------- |
+| Básico     | 1         | Crear un diccionario simple                               |
+| Básico     | 2         | Acceder a un valor por su clave                           |
+| Básico     | 3         | Modificar un valor existente                              |
+| Básico     | 4         | Agregar una nueva clave                                   |
+| Básico     | 5         | Eliminar una clave                                        |
+| Intermedio | 6         | Recorrer un diccionario con un bucle                      |
+| Intermedio | 7         | Contar la cantidad de claves                              |
+| Intermedio | 8         | Verificar si existe una clave                             |
+| Intermedio | 9         | Invertir un diccionario                                   |
+| Intermedio | 10        | Sumar todos los valores numéricos                         |
+| Avanzado   | 11        | Contar la frecuencia de caracteres                        |
+| Avanzado   | 12        | Combinar dos diccionarios                                 |
+| Avanzado   | 13        | Diccionario con listas de notas por materia               |
+| Avanzado   | 14        | Agrupar palabras por longitud                             |
+| Avanzado   | 15        | Diccionario de diccionarios (alumnos)                     |
+| Desafios   | 16        | Reemplazar valores duplicados                             |
+| Desafios   | 17        | Encontrar el valor máximo (ranking)                       |
+| Desafios   | 18        | Agrupar palabras por anagramas                            |
+| Desafios   | 19        | Convertir lista de tuplas a diccionario                   |
+| Desafios   | 20        | Contar palabras en un texto normalizado (versión difícil) |
